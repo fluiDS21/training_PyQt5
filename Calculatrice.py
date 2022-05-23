@@ -19,6 +19,8 @@ screen = QTextEdit()
 grid.addWidget(screen, 0, 0, 1, 4)
 # screen.setFixedWidth(200)
 
+# Je test une modification du fichier Calculatrice.py en y ajoutant ce commentaire.
+# Je souhaite voir comment apparait la modification sur le dossier distant GitHUb.
 
 def zero():
     screen.setPlainText("0")
